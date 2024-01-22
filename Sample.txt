@@ -1,1 +1,2 @@
-This is the sample file in the FIrst_repo 
+This is the sample file in the FIrst_repo
+"This is second line for push command" 
