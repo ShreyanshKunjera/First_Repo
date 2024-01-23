@@ -1,2 +1,2 @@
-"This line is for the change in the firstbranch branch"
+"This line is for the change in the firstbranch"
 "This is the first line of the sample2 file"
